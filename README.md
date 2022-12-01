@@ -3,7 +3,7 @@ calendario de adviento pero con código, para resolver uno cada día de aquí al
 Realizado por [@midudev](https://github.com/midudev) y su comunidad. encuéntralo en: [AdventJS.dev](https://adventjs.dev)
 Este repositorio recopila mis soluciones para el adventJS del 2022.
 
-##Retos: 🎉
+## Retos: 🎉
 - [X] RETO #01: **132**pts ⇒ [¡Automatizando envolver regalos de navidad!](./challenge01.js) 
 - [ ] RETO #02: ??????????
 - [ ] RETO #03: ??????????
@@ -28,3 +28,5 @@ Este repositorio recopila mis soluciones para el adventJS del 2022.
 - [ ] RETO #22: ??????????
 - [ ] RETO #23: ??????????
 - [ ] RETO #24: ??????????
+
+Gracias por su visita!
