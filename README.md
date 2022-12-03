@@ -5,8 +5,8 @@ Este repositorio recopila mis soluciones para el adventJS del 2022.
 
 ## Retos: 🎉
 - [X] RETO #01: **132**pts ⇒ [¡Automatizando envolver regalos de navidad!](./challenge01.js) 
-- [X] RETO #02: **114**pts ⇒ [Nadie quiere hacer horas extra](./challenge02.js)
-- [ ] RETO #03: ??????????
+- [X] RETO #02: **114**pts ⇒ [Nadie quiere hacer horas extra](./challenge02.ts)
+- [X] RETO #03: **146**pts ⇒ [¿Cuántas cajas de regalos puede llevar Papá Noel?](./challenge03.ts)
 - [ ] RETO #04: ??????????
 - [ ] RETO #05: ??????????
 - [ ] RETO #06: ??????????
